@@ -7,4 +7,4 @@ This python script add thumbnailPhoto to user Active Directory.
   pip install ms_active_directory
   pip install pillow
   ```
-  python3 AD-AddPhoto.py admin@domain.local Passw0rD ADLoginUserForFoto /tmp/foto/user_foto.jpg
+  `python3 AD-AddPhoto.py admin@domain.local Passw0rD ADLoginUserForFoto /tmp/foto/user_foto.jpg`
